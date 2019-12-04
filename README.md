@@ -2,7 +2,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/33cn/plugin?branch=master)](https://goreportcard.com/report/github.com/33cn/plugin)
 
 
-# BN public chain system based on chain33 blockchain development framework
+# BitNasdaq chain system based on chain33 blockchain development framework
 
 
 ### 编译
