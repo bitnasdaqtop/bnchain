@@ -5,7 +5,7 @@
 # BitNasdaq chain system based on chain33 blockchain development framework
 
 
-### 编译
+### Compile
 
 ```
 git clone https://github.com/bitnasdaqtop/bnchain $GOPATH/src/github.com/bitnasdaqtop/bnchain
@@ -14,8 +14,8 @@ go build -i -o bnchain
 go build -i -o bnchain-cli github.com/bitnasdaqtop/bnchain/cli
 ```
 
-### 运行
-拷贝编译好的bnchain, bnchain-cli, bn.toml这三个文件置于同一个文件夹下，执行：
+### Function
+Copy the three compiled files bnchain, bnchain-cli, bn.toml and put them in the same folder. Execute:
 ```
 ./bnchain -f bn.toml
 ```
